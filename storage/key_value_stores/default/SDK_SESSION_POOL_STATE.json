@@ -1,0 +1,167 @@
+{
+  "usableSessionsCount": 3,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_01mHwFUZGK",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-11-15T17:49:50.280Z",
+      "createdAt": "2025-11-15T16:59:50.280Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Uh5zcQuVXd",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "HWWAFSESTIME",
+            "value": "1763225989550",
+            "expires": "2025-11-15T17:49:59.368Z",
+            "domain": "www.cls.cn",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-11-15T16:59:57.408Z",
+            "lastAccessed": "2025-11-15T16:59:59.368Z"
+          },
+          {
+            "key": "HWWAFSESID",
+            "value": "05c0991ee5e7d0a88c",
+            "expires": "2025-11-15T17:49:59.368Z",
+            "domain": "www.cls.cn",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-11-15T16:59:57.408Z",
+            "lastAccessed": "2025-11-15T16:59:59.369Z"
+          },
+          {
+            "key": "hasTelegraphNotification",
+            "value": "on",
+            "expires": "2025-11-15T17:49:59.368Z",
+            "domain": "www.cls.cn",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-11-15T16:59:57.408Z",
+            "lastAccessed": "2025-11-15T16:59:59.369Z"
+          },
+          {
+            "key": "hasTelegraphRemind",
+            "value": "on",
+            "expires": "2025-11-15T17:49:59.368Z",
+            "domain": "www.cls.cn",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-11-15T16:59:57.408Z",
+            "lastAccessed": "2025-11-15T16:59:59.369Z"
+          },
+          {
+            "key": "hasTelegraphSound",
+            "value": "on",
+            "expires": "2025-11-15T17:49:59.368Z",
+            "domain": "www.cls.cn",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-11-15T16:59:57.408Z",
+            "lastAccessed": "2025-11-15T16:59:59.369Z"
+          },
+          {
+            "key": "vipNotificationState",
+            "value": "on",
+            "expires": "2025-11-15T17:49:59.368Z",
+            "domain": "www.cls.cn",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-11-15T16:59:57.408Z",
+            "lastAccessed": "2025-11-15T16:59:59.369Z"
+          },
+          {
+            "key": "tfstk",
+            "value": "gMDxwG0oKUYD-HQVDVAksGoHsci9qQmVmqoCIP4c143-AD701Eug5b3srrGiSIz1X-koiO4DuRns-RLH-pv33myzCeY3bqmNvRZ6IPOuGS3Y_p8H-pvl8u8WCemcB7MZVlz7clN_53F7Xz6_fVabNaZLYRas5VZSVlrO1Oa1G_a7zlw_5Vw628azXRas5Rt-VfcODPjbWOhVpY94E8aRCOM8cnzIDzEz4YEYMyN7yOimeoFYRmDCGqB3VYD8t7jMW8iEZqZ8pdB7HWhjkuiyW9UjtDo35SsFL03te8Mj9G6s2-UuTx3VkUUI30MUF7vBv0Mromk-jG9_q24S0xw9dHyYhrw84AYPhPhS1xV4QZTYC0E14yHnptvV-uyRG3KR_1Pb41pCETdz3iha2yxlZ15aZur8-3KR_1Pb4uUHqLfN_7qP.",
+            "expires": "2026-05-14T16:59:57.000Z",
+            "domain": "cls.cn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-11-15T16:59:57.408Z",
+            "lastAccessed": "2025-11-15T16:59:59.369Z"
+          },
+          {
+            "key": "Hm_lvt_fa5455bb5e9f0f260c32a1d45603ba3e",
+            "value": "1763225996",
+            "expires": "2026-11-15T16:59:58.000Z",
+            "domain": "www.cls.cn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-11-15T16:59:57.411Z",
+            "lastAccessed": "2025-11-15T16:59:59.369Z"
+          },
+          {
+            "key": "HMACCOUNT",
+            "value": "3A8ACC9CBB04B282",
+            "expires": "2025-11-15T17:49:59.368Z",
+            "domain": "www.cls.cn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-11-15T16:59:57.411Z",
+            "lastAccessed": "2025-11-15T16:59:59.369Z"
+          },
+          {
+            "key": "Hm_lpvt_fa5455bb5e9f0f260c32a1d45603ba3e",
+            "value": "1763225998",
+            "expires": "2025-11-15T17:49:59.368Z",
+            "domain": "www.cls.cn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-11-15T16:59:57.412Z",
+            "lastAccessed": "2025-11-15T16:59:59.370Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-11-15T17:49:50.282Z",
+      "createdAt": "2025-11-15T16:59:50.282Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_S5nyG8TuHx",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-11-15T17:49:50.297Z",
+      "createdAt": "2025-11-15T16:59:50.297Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

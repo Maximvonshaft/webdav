@@ -1,0 +1,9 @@
+{
+	"id": "wO4RM6cQZzA6OKV",
+	"json": "{\"id\":\"wO4RM6cQZzA6OKV\",\"url\":\"https://www.cls.cn/flash\",\"loadedUrl\":\"https://www.cls.cn/flash\",\"uniqueKey\":\"https://www.cls.cn/flash\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-11-15T16:59:59.432Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.cls.cn/flash",
+	"url": "https://www.cls.cn/flash"
+}
