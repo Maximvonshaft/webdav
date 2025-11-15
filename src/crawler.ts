@@ -2,7 +2,7 @@ import { PlaywrightCrawler, ProxyConfiguration } from '@crawlee/playwright';
 import type { PlaywrightCrawlerOptions } from '@crawlee/playwright';
 import { Dataset, log } from 'crawlee';
 import { addExtra } from 'playwright-extra';
-import StealthPlugin from 'playwright-extra-plugin-stealth';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import playwright from 'playwright';
 import type { Page } from 'playwright';
 import type { ResolvedConfig } from './config.js';
@@ -36,7 +36,7 @@ export const createClsCrawler = (
     navigationTimeoutSecs: 45,
     headless: config.headless,
     launchContext: {
-      playwright: playwrightExtra,
+      launcher: playwrightExtra.chromium,
       launchOptions: {
         headless: config.headless,
         args: [
